@@ -1,26 +1,26 @@
 body {
-      font-family: helvetica, sans-serif;
-      margin: 0 auto;
-      max-width: 600px;
-      background-size:cover;
-      background-position:center;
-     }
+  font-family: helvetica, sans-serif;
+  margin: 0 auto;
+  max-width: 600px;
+  background-size:cover;
+  background-position:center;
+}
 div {
-     height: 200px;
-     background-size: cover;
-     position: relative;
-     margin: 40px 0 0 0;
-     border-radius: 12px;
-    }
- h1 {
-     font-family: 'Londrina Shadow', cursive;
-     text-align: center;
-     font-size: 50px;
-     margin: 60px 0 0 0;
-    }
- h2 {
-     text-align: center;
-     margin: 0px 0 70px 0;
+  height: 200px;
+  background-size: cover;
+  position: relative;
+  margin: 40px 0 0 0;
+  border-radius: 12px;
+}
+h1 {
+  font-family: 'Londrina Shadow', cursive;
+  text-align: center;
+  font-size: 50px;
+  margin: 60px 0 0 0;
+}
+h2 {
+  text-align: center;
+  margin: 0px 0 70px 0;
 }
 p {
   color: rgba(255,255,255,1);
@@ -53,14 +53,17 @@ small {
 }
 
 .first{
+ 
   background-size:33%;
   background-position:center;
 }
 .second{
+  
   background-size:33%;
   background-position:center;
 }
 .third{
+  
   background-size:33%;
   background-position:center;
 }
@@ -88,3 +91,4 @@ small {
     font-size: 16px;
   }
 }
+
